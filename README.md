@@ -1,4 +1,4 @@
-# fake-api
+# Fake REST API
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -6,7 +6,7 @@
 ## General info
 This project is simple full fake REST API.
 
-The app is inspired by [@typicode]( https://github.com/typicode/json-server )
+The app was inspired by [@typicode]( https://github.com/typicode/json-server )
 ## Technologies
 Project is created with:
 * JSON Server: 0.17.0
