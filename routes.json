@@ -1,0 +1,4 @@
+{
+    "/accounts/users/me": "/users", 
+    "/accounts/profile/": "/profile" 
+}
