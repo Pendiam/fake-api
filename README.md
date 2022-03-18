@@ -1,10 +1,24 @@
 # fake-api
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+## General info
+This project is simple Lorem ipsum dolor generator.
 
-## **1. Install JSON Server**
+## Technologies
+Project is created with:
+* JSON Server: 0.17.0
+* 
+## Setup
+To run this project, 
+### **1. Install JSON Server globally using npm:**
 ```
 npm install -g json-server
 ```
-## **2. Start JSON Server**
+### **2. Start JSON Server**
+
 ```
-json-server db.json
+$ cd fake-api
+$ fake-api> json-server db.json
 ```
