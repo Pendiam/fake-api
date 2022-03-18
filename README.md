@@ -5,9 +5,7 @@
 * [Setup](#setup)
 ## General info
 This project is simple full fake REST API.
-The app is inspired by .[@github.com/typicode].
-Check the documentation at (https://github.com/typicode/json-server)
-[@VideoAmp/team-name]( https://github.com/orgs/VideoAmp/teams/team-name/members )
+The app is inspired by [@typicode]( https://github.com/typicode/json-server )
 ## Technologies
 Project is created with:
 * JSON Server: 0.17.0
