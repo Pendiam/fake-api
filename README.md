@@ -1,6 +1,6 @@
 # fake-api
 
-#Install JSON Server
+--Install JSON Server
 
 npm install -g json-server
 
