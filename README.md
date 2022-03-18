@@ -4,7 +4,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple full fake REST API.
+The app is inspired by [@typicode] Check the documentation at (https://github.com/typicode/json-server)
 
 ## Technologies
 Project is created with:
@@ -12,11 +13,11 @@ Project is created with:
 * 
 ## Setup
 To run this project, 
-### **1. Install JSON Server globally using npm:**
+#### **1. Install JSON Server globally using npm:**
 ```
 npm install -g json-server
 ```
-### **2. Start JSON Server**
+#### **2. Start JSON Server**
 
 ```
 $ cd fake-api
