@@ -9,7 +9,6 @@ The app is inspired by [@typicode]( https://github.com/typicode/json-server )
 ## Technologies
 Project is created with:
 * JSON Server: 0.17.0
-* 
 ## Setup
 To run this project, 
 #### **1. Install JSON Server globally using npm:**
