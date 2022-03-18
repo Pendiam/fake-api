@@ -5,6 +5,7 @@
 * [Setup](#setup)
 ## General info
 This project is simple full fake REST API.
+
 The app is inspired by [@typicode]( https://github.com/typicode/json-server )
 ## Technologies
 Project is created with:
@@ -16,7 +17,6 @@ To run this project,
 npm install -g json-server
 ```
 #### **2. Start JSON Server**
-
 ```
 $ cd fake-api
 $ fake-api> json-server db.json
