@@ -5,7 +5,7 @@
 * [Setup](#setup)
 ## General info
 This project is simple full fake REST API.
-The app is inspired by [@github.com/typicode]
+The app is inspired by @github.com/typicode
 Check the documentation at (https://github.com/typicode/json-server)
 
 ## Technologies
