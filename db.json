@@ -1,24 +1,3601 @@
 {
-  "users": [
+  "Leader": [
+    {
+      "id": 8,
+      "prefix": "Mr",
+      "first_name": "Daniel",
+      "other_name": "Kiprotich",
+      "last_name": "Chemno",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Daniel_Chemno.png",
+      "created_at": "2022-05-13T15:26:37.092141Z",
+      "updated_at": "2022-05-13T15:26:37.092141Z"
+    },
+    {
+      "id": 7,
+      "prefix": "Mr",
+      "first_name": "Jackson",
+      "other_name": "Kiplagat Arap",
+      "last_name": "Mandago",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Jackson-mandago.jpg",
+      "created_at": "2022-05-13T14:35:18.424595Z",
+      "updated_at": "2022-05-13T14:35:18.424595Z"
+    },
+    {
+      "id": 6,
+      "prefix": "Mr",
+      "first_name": "Benard",
+      "other_name": "Kipsengeret",
+      "last_name": "Koros",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Hon._Koros_Benard_Kipsengeret.jpg",
+      "created_at": "2022-05-04T13:45:29.124809Z",
+      "updated_at": "2022-05-04T13:45:29.124809Z"
+    },
+    {
+      "id": 5,
+      "prefix": "Mr",
+      "first_name": "Nelson",
+      "other_name": null,
+      "last_name": "Koech",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Hon._Koech_Nelson.jpg",
+      "created_at": "2022-05-04T13:32:51.475318Z",
+      "updated_at": "2022-05-04T13:32:51.475318Z"
+    },
+    {
+      "id": 4,
+      "prefix": "Mr",
+      "first_name": "Japheth",
+      "other_name": "Kiptergech",
+      "last_name": "Mutai",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Hon._Mutai_Japheth_Kiplangat.jpg",
+      "created_at": "2022-05-04T13:16:30.686823Z",
+      "updated_at": "2022-05-04T13:24:58.918615Z"
+    },
+    {
+      "id": 3,
+      "prefix": "Mr",
+      "first_name": "Joseph",
+      "other_name": "Kirui",
+      "last_name": "Limo",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/Hon._Limo_Kirui_Joseph.jpg",
+      "created_at": "2022-05-04T12:58:21.211870Z",
+      "updated_at": "2022-05-04T12:58:21.211870Z"
+    },
+    {
+      "id": 2,
+      "prefix": "Mr",
+      "first_name": "Slyvannus",
+      "other_name": null,
+      "last_name": "Maritim",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/hon._Slyvannus_Martim.JPG",
+      "created_at": "2022-05-04T12:47:01.084316Z",
+      "updated_at": "2022-05-04T12:47:01.084316Z"
+    },
     {
       "id": 1,
-      "first_name": "Arnold",
-      "last_name": "Peter",
-      "email": "p.arnold@pu.ac.ke"
+      "prefix": "Mr",
+      "first_name": "Hilary",
+      "other_name": "Kiplang’at",
+      "last_name": "Kosgei",
+      "dob": null,
+      "gender": "Male",
+      "avatar": "http://127.0.0.1:8000/profiles/hon._Kosgei_Hilary_Kiplangat_UsaLfhF.jpg",
+      "created_at": "2022-05-04T11:14:19.741133Z",
+      "updated_at": "2022-05-04T11:14:19.741133Z"
     }
   ],
-  "profile": [
+  "Contact": [
+    {
+      "id": 8,
+      "office_phone": "053-2016000",
+      "office_email": "info@uasingishu.go.ke",
+      "office_address": "County Government of Uasin Gishu, \r\nP. O. Box 40-30100, Eldoret",
+      "website": "https://www.uasingishu.go.ke/",
+      "facebook": "https://www.facebook.com/daniel.chemno",
+      "twitter": null,
+      "linkedin": null,
+      "office_location": "Uganda Road, Eldoret",
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-13T15:36:13.019890Z",
+      "updated_at": "2022-05-13T15:36:13.019890Z",
+      "leader": 8
+    },
+    {
+      "id": 7,
+      "office_phone": "053-2016000 / 053-2016125",
+      "office_email": "info@uasingishu.go.ke",
+      "office_address": "P.O Box 40-30100, Eldoret, KENYA",
+      "website": "https://www.uasingishu.go.ke",
+      "facebook": "https://www.facebook.com/GovernorJacksonMandago",
+      "twitter": "https://twitter.com/gvnmandago?lang=en",
+      "linkedin": "https://www.linkedin.com/in/jackson-mandago-54b325119/",
+      "office_location": "Eldoret",
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": "+254700646464",
+      "home_phone": null,
+      "home_email": "mandago2000@yahoo.com",
+      "created_at": "2022-05-13T14:59:03.111772Z",
+      "updated_at": "2022-05-13T14:59:03.111772Z",
+      "leader": 7
+    },
+    {
+      "id": 6,
+      "office_phone": null,
+      "office_email": null,
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/node/3305",
+      "facebook": "https://www.facebook.com/groups/127574997880448/",
+      "twitter": "https://mobile.twitter.com/kipsengeret",
+      "linkedin": "https://www.linkedin.com/in/kipsengeret/?originalSubdomain=ke",
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-04T13:47:25.445945Z",
+      "updated_at": "2022-05-04T13:47:25.445945Z",
+      "leader": 6
+    },
+    {
+      "id": 5,
+      "office_phone": null,
+      "office_email": "info@parliament.go.ke",
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/node/3298",
+      "facebook": "https://www.facebook.com/people/HonNelson-Koech/100057858961200/",
+      "twitter": "https://twitter.com/koechnelsonk?lang=en",
+      "linkedin": null,
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-04T13:35:58.764533Z",
+      "updated_at": "2022-05-04T13:37:25.040091Z",
+      "leader": 5
+    },
+    {
+      "id": 4,
+      "office_phone": null,
+      "office_email": null,
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/node/3377",
+      "facebook": "https://www.facebook.com/kiptergech",
+      "twitter": "https://twitter.com/kiptergechmutai",
+      "linkedin": null,
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-04T13:26:13.799375Z",
+      "updated_at": "2022-05-04T13:26:13.799375Z",
+      "leader": 4
+    },
+    {
+      "id": 3,
+      "office_phone": null,
+      "office_email": null,
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/node/3332",
+      "facebook": null,
+      "twitter": "https://twitter.com/nomenetwork?lang=en",
+      "linkedin": null,
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-04T13:13:29.433919Z",
+      "updated_at": "2022-05-04T13:13:29.433919Z",
+      "leader": 2
+    },
+    {
+      "id": 2,
+      "office_phone": null,
+      "office_email": null,
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/node/3320",
+      "facebook": "https://www.facebook.com/groups/205292286276980/",
+      "twitter": null,
+      "linkedin": "https://www.linkedin.com/in/joseph-limo-0a5a7972/?originalSubdomain=ke",
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": "+254722651966",
+      "home_phone": null,
+      "home_email": "josephlimo09@yahoo.com",
+      "created_at": "2022-05-04T13:08:33.954792Z",
+      "updated_at": "2022-05-04T13:08:33.954792Z",
+      "leader": 3
+    },
     {
       "id": 1,
-      "other_name": "",
-      "phone": "+254722424907",
-      "gender": "Male",
-      "avatar": "http://127.0.0.1:8000/profiles/default_4ns86HV.jpg",
-      "user_type": "LECTURER",
-      "bio": "A full-stack Web Application Developer with 5 years of experience with Java, Python, React.js, and AWS.",
-      "created_at": "2021-08-09T15:08:47.387560Z",
-      "updated_at": "2022-01-23T05:22:49.807522Z",
-      "user": 1
+      "office_phone": null,
+      "office_email": "info@parliament.go.ke",
+      "office_address": "",
+      "website": "http://www.parliament.go.ke/index.php/node/3306",
+      "facebook": "https://www.facebook.com/HonHilaryKosgei/about_contact_and_basic_info",
+      "twitter": null,
+      "linkedin": null,
+      "office_location": null,
+      "office_latitude": null,
+      "office_longitude": null,
+      "mobile_phone": null,
+      "home_phone": null,
+      "home_email": null,
+      "created_at": "2022-05-04T11:32:47.392547Z",
+      "updated_at": "2022-05-04T11:38:34.139787Z",
+      "leader": 1
     }
-  ]
+  ],
+  "County": [
+    {
+      "id": 1,
+      "code": "001",
+      "name": "Mombasa",
+      "capital": "Mombasa City",
+      "population": 1208333,
+      "size": 212.5
+    },
+    {
+      "id": 2,
+      "code": "002",
+      "name": "Kwale",
+      "capital": "Kwale",
+      "population": 866820,
+      "size": 8270.3
+    },
+    {
+      "id": 3,
+      "code": "003",
+      "name": "Kilifi",
+      "capital": "Kilifi",
+      "population": 1453787,
+      "size": 12245.9
+    },
+    {
+      "id": 4,
+      "code": "004",
+      "name": "Tana River",
+      "capital": "Hola",
+      "population": 315943,
+      "size": 35375.8
+    },
+    {
+      "id": 5,
+      "code": "005",
+      "name": "Lamu",
+      "capital": "Lamu",
+      "population": 143920,
+      "size": 6497.7
+    },
+    {
+      "id": 6,
+      "code": "006",
+      "name": "Taita–Taveta",
+      "capital": "Mwatate",
+      "population": 340671,
+      "size": 17083.9
+    },
+    {
+      "id": 7,
+      "code": "007",
+      "name": "Garissa",
+      "capital": "Garissa",
+      "population": 841353,
+      "size": 45720.2
+    },
+    {
+      "id": 8,
+      "code": "008",
+      "name": "Wajir",
+      "capital": "Wajir",
+      "population": 781263,
+      "size": 55840.6
+    },
+    {
+      "id": 9,
+      "code": "009",
+      "name": "Mandera",
+      "capital": "Mandera",
+      "population": 867457,
+      "size": 25797.7
+    },
+    {
+      "id": 10,
+      "code": "010",
+      "name": "Marsabit",
+      "capital": "Marsabit",
+      "population": 459785,
+      "size": 66923.1
+    },
+    {
+      "id": 11,
+      "code": "011",
+      "name": "Isiolo",
+      "capital": "Isiolo",
+      "population": 268002,
+      "size": 25336.1
+    },
+    {
+      "id": 12,
+      "code": "012",
+      "name": "Meru",
+      "capital": "Meru",
+      "population": 1545714,
+      "size": 7003.1
+    },
+    {
+      "id": 13,
+      "code": "013",
+      "name": "Tharaka-Nithi",
+      "capital": "Kathwana",
+      "population": 393177,
+      "size": 2609.5
+    },
+    {
+      "id": 14,
+      "code": "014",
+      "name": "Embu",
+      "capital": "Embu",
+      "population": 608599,
+      "size": 2555.9
+    },
+    {
+      "id": 15,
+      "code": "015",
+      "name": "Kitui",
+      "capital": "Kitui",
+      "population": 1136187,
+      "size": 24385.1
+    },
+    {
+      "id": 16,
+      "code": "016",
+      "name": "Machakos",
+      "capital": "Machakos",
+      "population": 1421932,
+      "size": 5952.9
+    },
+    {
+      "id": 17,
+      "code": "017",
+      "name": "Makueni",
+      "capital": "Wote",
+      "population": 987653,
+      "size": 8008.9
+    },
+    {
+      "id": 18,
+      "code": "018",
+      "name": "Nyandarua",
+      "capital": "Ol Kalou",
+      "population": 638289,
+      "size": 3107.7
+    },
+    {
+      "id": 19,
+      "code": "019",
+      "name": "Nyeri",
+      "capital": "Nyeri",
+      "population": 759164,
+      "size": 2361.0
+    },
+    {
+      "id": 20,
+      "code": "020",
+      "name": "Kirinyaga",
+      "capital": "Kerugoya",
+      "population": 610411,
+      "size": 1205.4
+    },
+    {
+      "id": 21,
+      "code": "021",
+      "name": "Murang'a",
+      "capital": "Murang'a",
+      "population": 1056640,
+      "size": 2325.8
+    },
+    {
+      "id": 22,
+      "code": "022",
+      "name": "Kiambu",
+      "capital": "Kiambu",
+      "population": 2417735,
+      "size": 2449.2
+    },
+    {
+      "id": 23,
+      "code": "023",
+      "name": "Turkana",
+      "capital": "Lodwar",
+      "population": 926976,
+      "size": 71597.8
+    },
+    {
+      "id": 24,
+      "code": "024",
+      "name": "West Pokot",
+      "capital": "Kapenguria",
+      "population": 621241,
+      "size": 8418.2
+    },
+    {
+      "id": 25,
+      "code": "025",
+      "name": "Samburu",
+      "capital": "Maralal",
+      "population": 310327,
+      "size": 20182.5
+    },
+    {
+      "id": 26,
+      "code": "026",
+      "name": "Trans-Nzoia",
+      "capital": "Kitale",
+      "population": 990341,
+      "size": 2469.9
+    },
+    {
+      "id": 27,
+      "code": "027",
+      "name": "Uasin Gishu",
+      "capital": "Eldoret",
+      "population": 1163186,
+      "size": 2955.3
+    },
+    {
+      "id": 28,
+      "code": "028",
+      "name": "Elgeyo-Marakwet",
+      "capital": "Iten",
+      "population": 454480,
+      "size": 3049.7
+    },
+    {
+      "id": 29,
+      "code": "029",
+      "name": "Nandi",
+      "capital": "Kapsabet",
+      "population": 885711,
+      "size": 2884.5
+    },
+    {
+      "id": 30,
+      "code": "030",
+      "name": "Baringo",
+      "capital": "Kabarnet",
+      "population": 666763,
+      "size": 11075.3
+    },
+    {
+      "id": 31,
+      "code": "031",
+      "name": "Laikipia",
+      "capital": "Rumuruti",
+      "population": 518560,
+      "size": 8696.1
+    },
+    {
+      "id": 32,
+      "code": "032",
+      "name": "Nakuru",
+      "capital": "Nakuru City",
+      "population": 2162202,
+      "size": 7509.5
+    },
+    {
+      "id": 33,
+      "code": "033",
+      "name": "Narok",
+      "capital": "Narok",
+      "population": 1157873,
+      "size": 17921.2
+    },
+    {
+      "id": 34,
+      "code": "034",
+      "name": "Kajiado",
+      "capital": "Kajiado",
+      "population": 1117840,
+      "size": 21292.7
+    },
+    {
+      "id": 35,
+      "code": "035",
+      "name": "Kericho",
+      "capital": "Kericho",
+      "population": 901777,
+      "size": 2454.5
+    },
+    {
+      "id": 36,
+      "code": "036",
+      "name": "Bomet",
+      "capital": "Bomet",
+      "population": 875689,
+      "size": 1997.9
+    },
+    {
+      "id": 37,
+      "code": "037",
+      "name": "Kakamega",
+      "capital": "Kakamega",
+      "population": 1867579,
+      "size": 3033.8
+    },
+    {
+      "id": 38,
+      "code": "038",
+      "name": "Vihiga",
+      "capital": "Mbale",
+      "population": 590013,
+      "size": 531.3
+    },
+    {
+      "id": 39,
+      "code": "039",
+      "name": "Bungoma",
+      "capital": "Bungoma",
+      "population": 1670570,
+      "size": 2206.9
+    },
+    {
+      "id": 40,
+      "code": "040",
+      "name": "Busia",
+      "capital": "Busia",
+      "population": 893681,
+      "size": 1628.4
+    },
+    {
+      "id": 41,
+      "code": "041",
+      "name": "Siaya",
+      "capital": "Siaya",
+      "population": 993183,
+      "size": 2496.1
+    },
+    {
+      "id": 42,
+      "code": "042",
+      "name": "Kisumu",
+      "capital": "Kisumu City",
+      "population": 1155574,
+      "size": 2009.5
+    },
+    {
+      "id": 43,
+      "code": "043",
+      "name": "Homa Bay",
+      "capital": "Homa Bay",
+      "population": 1131950,
+      "size": 3154.7
+    },
+    {
+      "id": 44,
+      "code": "044",
+      "name": "Migori",
+      "capital": "Migori",
+      "population": 1116436,
+      "size": 2586.4
+    },
+    {
+      "id": 45,
+      "code": "045",
+      "name": "Kisii",
+      "capital": "Kisii",
+      "population": 1266860,
+      "size": 1317.9
+    },
+    {
+      "id": 46,
+      "code": "046",
+      "name": "Nyamira",
+      "capital": "Nyamira",
+      "population": 605576,
+      "size": 912.5
+    },
+    {
+      "id": 47,
+      "code": "047",
+      "name": "Nairobi",
+      "capital": "Nairobi City",
+      "population": 4397073,
+      "size": 694.9
+    }
+  ],
+  "Constituency": [
+    {
+      "id": 144,
+      "name": "Ainabkoi",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 190,
+      "name": "Ainamoi",
+      "population": 147741,
+      "size": 258.5,
+      "county": 35
+    },
+    {
+      "id": 152,
+      "name": "Aldai",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 234,
+      "name": "Alego Usonga",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 254,
+      "name": "Awendo",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 174,
+      "name": "Bahati",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 28,
+      "name": "Balambala",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 40,
+      "name": "Banissa",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 158,
+      "name": "Baringo North",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 160,
+      "name": "Baringo South",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 192,
+      "name": "Belgut",
+      "population": 125292,
+      "size": 294.5,
+      "county": 35
+    },
+    {
+      "id": 264,
+      "name": "Bobasi",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 263,
+      "name": "Bomachoge Borabu",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 265,
+      "name": "Bomachoge Chache",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 197,
+      "name": "Bomet Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 36
+    },
+    {
+      "id": 196,
+      "name": "Bomet East",
+      "population": 0,
+      "size": 0.0,
+      "county": 36
+    },
+    {
+      "id": 261,
+      "name": "Bonchari",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 236,
+      "name": "Bondo",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 273,
+      "name": "Borabu",
+      "population": 0,
+      "size": 0.0,
+      "county": 46
+    },
+    {
+      "id": 231,
+      "name": "Budalangi",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 219,
+      "name": "Bumula",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 20,
+      "name": "Bura",
+      "population": 0,
+      "size": 0.0,
+      "county": 4
+    },
+    {
+      "id": 191,
+      "name": "Bureti",
+      "population": 167649,
+      "size": 321.1,
+      "county": 35
+    },
+    {
+      "id": 207,
+      "name": "Butere",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 229,
+      "name": "Butula",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 57,
+      "name": "Buuri",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 58,
+      "name": "Central Imenti",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 1,
+      "name": "Changamwe",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 195,
+      "name": "Chepalungu",
+      "population": 0,
+      "size": 0.0,
+      "county": 36
+    },
+    {
+      "id": 140,
+      "name": "Cherangany",
+      "population": 0,
+      "size": 0.0,
+      "county": 26
+    },
+    {
+      "id": 154,
+      "name": "Chesumei",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 61,
+      "name": "Chuka",
+      "population": 0,
+      "size": 0.0,
+      "county": 13
+    },
+    {
+      "id": 30,
+      "name": "Dadaab",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 275,
+      "name": "Dagoretti North",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 276,
+      "name": "Dagoretti South",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 162,
+      "name": "Eldama Ravine",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 37,
+      "name": "Eldas",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 284,
+      "name": "Embakasi Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 285,
+      "name": "Embakasi East",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 283,
+      "name": "Embakasi North",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 282,
+      "name": "Embakasi South",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 286,
+      "name": "Embakasi West",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 155,
+      "name": "Emgwen",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 215,
+      "name": "Emuhaya",
+      "population": 0,
+      "size": 0.0,
+      "county": 38
+    },
+    {
+      "id": 178,
+      "name": "Emurua Dikirr",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 137,
+      "name": "Endebess",
+      "population": 0,
+      "size": 0.0,
+      "county": 26
+    },
+    {
+      "id": 31,
+      "name": "Fafi",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 230,
+      "name": "Funyula",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 19,
+      "name": "Galole",
+      "population": 0,
+      "size": 0.0,
+      "county": 4
+    },
+    {
+      "id": 15,
+      "name": "Ganze",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 27,
+      "name": "Garissa Township",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 18,
+      "name": "Garsen",
+      "population": 0,
+      "size": 0.0,
+      "county": 4
+    },
+    {
+      "id": 110,
+      "name": "Gatanga",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 112,
+      "name": "Gatundu North",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 111,
+      "name": "Gatundu South",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 235,
+      "name": "Gem",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 101,
+      "name": "Gichugu",
+      "population": 0,
+      "size": 0.0,
+      "county": 20
+    },
+    {
+      "id": 169,
+      "name": "Gilgil",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 116,
+      "name": "Githunguri",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 213,
+      "name": "Hamisi",
+      "population": 0,
+      "size": 0.0,
+      "county": 38
+    },
+    {
+      "id": 249,
+      "name": "Homa Bay Town",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 52,
+      "name": "Igembe Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 53,
+      "name": "Igembe North",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 51,
+      "name": "Igembe South",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 32,
+      "name": "Ijara",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 210,
+      "name": "Ikolomani",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 49,
+      "name": "Isiolo North",
+      "population": 0,
+      "size": 0.0,
+      "county": 11
+    },
+    {
+      "id": 50,
+      "name": "Isiolo South",
+      "population": 0,
+      "size": 0.0,
+      "county": 11
+    },
+    {
+      "id": 2,
+      "name": "Jomvu",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 113,
+      "name": "Juja",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 119,
+      "name": "Kabete",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 246,
+      "name": "Kabondo Kasipul",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 218,
+      "name": "Kabuchai",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 131,
+      "name": "Kacheliba",
+      "population": 0,
+      "size": 0.0,
+      "county": 24
+    },
+    {
+      "id": 85,
+      "name": "Kaiti",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 184,
+      "name": "Kajiado Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 34
+    },
+    {
+      "id": 185,
+      "name": "Kajiado East",
+      "population": 0,
+      "size": 0.0,
+      "county": 34
+    },
+    {
+      "id": 183,
+      "name": "Kajiado North",
+      "population": 0,
+      "size": 0.0,
+      "county": 34
+    },
+    {
+      "id": 187,
+      "name": "Kajiado South",
+      "population": 0,
+      "size": 0.0,
+      "county": 34
+    },
+    {
+      "id": 186,
+      "name": "Kajiado West",
+      "population": 0,
+      "size": 0.0,
+      "county": 34
+    },
+    {
+      "id": 13,
+      "name": "Kaloleni",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 288,
+      "name": "Kamukunji",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 109,
+      "name": "Kandara",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 220,
+      "name": "Kanduyi",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 104,
+      "name": "Kangema",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 77,
+      "name": "Kangundo",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 129,
+      "name": "Kapenguria",
+      "population": 0,
+      "size": 0.0,
+      "county": 24
+    },
+    {
+      "id": 145,
+      "name": "Kapseret",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 247,
+      "name": "Karachuonyo",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 280,
+      "name": "Kasarani",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 245,
+      "name": "Kasipul",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 79,
+      "name": "Kathiani",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 149,
+      "name": "Keiyo North",
+      "population": 0,
+      "size": 0.0,
+      "county": 28
+    },
+    {
+      "id": 150,
+      "name": "Keiyo South",
+      "population": 0,
+      "size": 0.0,
+      "county": 28
+    },
+    {
+      "id": 146,
+      "name": "Kesses",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 208,
+      "name": "Khwisero",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 118,
+      "name": "Kiambaa",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 117,
+      "name": "Kiambu",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 278,
+      "name": "Kibra",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 88,
+      "name": "Kibwezi East",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 87,
+      "name": "Kibwezi West",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 95,
+      "name": "Kieni",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 107,
+      "name": "Kigumo",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 106,
+      "name": "Kiharu",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 120,
+      "name": "Kikuyu",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 177,
+      "name": "Kilgoris",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 11,
+      "name": "Kilifi North",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 12,
+      "name": "Kilifi South",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 84,
+      "name": "Kilome",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 223,
+      "name": "Kimilili",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 139,
+      "name": "Kiminini",
+      "population": 0,
+      "size": 0.0,
+      "county": 26
+    },
+    {
+      "id": 10,
+      "name": "Kinango",
+      "population": 0,
+      "size": 0.0,
+      "county": 2
+    },
+    {
+      "id": 89,
+      "name": "Kinangop",
+      "population": 0,
+      "size": 0.0,
+      "county": 18
+    },
+    {
+      "id": 90,
+      "name": "Kipipiri",
+      "population": 0,
+      "size": 0.0,
+      "county": 18
+    },
+    {
+      "id": 188,
+      "name": "Kipkelion East",
+      "population": 111832,
+      "size": 746.4,
+      "county": 35
+    },
+    {
+      "id": 189,
+      "name": "Kipkelion West",
+      "population": 94758,
+      "size": 360.9,
+      "county": 35
+    },
+    {
+      "id": 103,
+      "name": "Kirinyaga Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 20
+    },
+    {
+      "id": 3,
+      "name": "Kisauni",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 240,
+      "name": "Kisumu Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 238,
+      "name": "Kisumu East",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 239,
+      "name": "Kisumu West",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 72,
+      "name": "Kitui Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 73,
+      "name": "Kitui East",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 71,
+      "name": "Kitui Rural",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 74,
+      "name": "Kitui South",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 70,
+      "name": "Kitui West",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 268,
+      "name": "Kitutu Chache North",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 269,
+      "name": "Kitutu Chache South",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 270,
+      "name": "Kitutu Masaba",
+      "population": 0,
+      "size": 0.0,
+      "county": 46
+    },
+    {
+      "id": 198,
+      "name": "Konoin",
+      "population": 0,
+      "size": 0.0,
+      "county": 36
+    },
+    {
+      "id": 171,
+      "name": "Kuresoi North",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 170,
+      "name": "Kuresoi South",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 260,
+      "name": "Kuria East",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 259,
+      "name": "Kuria West",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 136,
+      "name": "Kwanza",
+      "population": 0,
+      "size": 0.0,
+      "county": 26
+    },
+    {
+      "id": 44,
+      "name": "Lafey",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 29,
+      "name": "Lagdera",
+      "population": 0,
+      "size": 0.0,
+      "county": 7
+    },
+    {
+      "id": 164,
+      "name": "Laikipia East",
+      "population": 0,
+      "size": 0.0,
+      "county": 31
+    },
+    {
+      "id": 165,
+      "name": "Laikipia North",
+      "population": 0,
+      "size": 0.0,
+      "county": 31
+    },
+    {
+      "id": 163,
+      "name": "Laikipia West",
+      "population": 0,
+      "size": 0.0,
+      "county": 31
+    },
+    {
+      "id": 48,
+      "name": "Laisamis",
+      "population": 0,
+      "size": 0.0,
+      "county": 10
+    },
+    {
+      "id": 21,
+      "name": "Lamu East",
+      "population": 0,
+      "size": 0.0,
+      "county": 5
+    },
+    {
+      "id": 22,
+      "name": "Lamu West",
+      "population": 0,
+      "size": 0.0,
+      "county": 5
+    },
+    {
+      "id": 277,
+      "name": "Lang'ata",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 122,
+      "name": "Lari",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 5,
+      "name": "Likoni",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 200,
+      "name": "Likuyani",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 121,
+      "name": "Limuru",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 126,
+      "name": "Loima",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 214,
+      "name": "Luanda",
+      "population": 0,
+      "size": 0.0,
+      "county": 38
+    },
+    {
+      "id": 199,
+      "name": "Lugari",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 8,
+      "name": "Lunga Lunga",
+      "population": 0,
+      "size": 0.0,
+      "county": 2
+    },
+    {
+      "id": 202,
+      "name": "Lurambi",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 60,
+      "name": "Maara",
+      "population": 0,
+      "size": 0.0,
+      "county": 13
+    },
+    {
+      "id": 81,
+      "name": "Machakos Town",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 17,
+      "name": "Magarini",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 287,
+      "name": "Makadara",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 86,
+      "name": "Makueni",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 201,
+      "name": "Malava",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 16,
+      "name": "Malindi",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 43,
+      "name": "Mandera East",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 41,
+      "name": "Mandera North",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 42,
+      "name": "Mandera South",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 39,
+      "name": "Mandera West",
+      "population": 0,
+      "size": 0.0,
+      "county": 9
+    },
+    {
+      "id": 63,
+      "name": "Manyatta",
+      "population": 0,
+      "size": 0.0,
+      "county": 14
+    },
+    {
+      "id": 108,
+      "name": "Maragwa",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 147,
+      "name": "Marakwet East",
+      "population": 0,
+      "size": 0.0,
+      "county": 28
+    },
+    {
+      "id": 148,
+      "name": "Marakwet West",
+      "population": 0,
+      "size": 0.0,
+      "county": 28
+    },
+    {
+      "id": 75,
+      "name": "Masinga",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 228,
+      "name": "Matayos",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 290,
+      "name": "Mathare",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 105,
+      "name": "Mathioya",
+      "population": 0,
+      "size": 0.0,
+      "county": 21
+    },
+    {
+      "id": 96,
+      "name": "Mathira",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 9,
+      "name": "Matuga",
+      "population": 0,
+      "size": 0.0,
+      "county": 2
+    },
+    {
+      "id": 206,
+      "name": "Matungu",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 78,
+      "name": "Matungulu",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 80,
+      "name": "Mavoko",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 66,
+      "name": "Mbeere North",
+      "population": 0,
+      "size": 0.0,
+      "county": 14
+    },
+    {
+      "id": 65,
+      "name": "Mbeere South",
+      "population": 0,
+      "size": 0.0,
+      "county": 14
+    },
+    {
+      "id": 251,
+      "name": "Mbita",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 83,
+      "name": "Mbooni",
+      "population": 0,
+      "size": 0.0,
+      "county": 17
+    },
+    {
+      "id": 161,
+      "name": "Mogotio",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 143,
+      "name": "Moiben",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 166,
+      "name": "Molo",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 156,
+      "name": "Mosop",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 216,
+      "name": "Mount Elgon",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 45,
+      "name": "Moyale",
+      "population": 0,
+      "size": 0.0,
+      "county": 10
+    },
+    {
+      "id": 7,
+      "name": "Msambweni",
+      "population": 0,
+      "size": 0.0,
+      "county": 2
+    },
+    {
+      "id": 243,
+      "name": "Muhoroni",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 98,
+      "name": "Mukurweini",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 205,
+      "name": "Mumias East",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 204,
+      "name": "Mumias West",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 6,
+      "name": "Mvita",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 82,
+      "name": "Mwala",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 25,
+      "name": "Mwatate",
+      "population": 0,
+      "size": 0.0,
+      "county": 6
+    },
+    {
+      "id": 100,
+      "name": "Mwea",
+      "population": 0,
+      "size": 0.0,
+      "county": 20
+    },
+    {
+      "id": 69,
+      "name": "Mwingi Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 67,
+      "name": "Mwingi North",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 68,
+      "name": "Mwingi West",
+      "population": 0,
+      "size": 0.0,
+      "county": 15
+    },
+    {
+      "id": 168,
+      "name": "Naivasha",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 176,
+      "name": "Nakuru Town East",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 175,
+      "name": "Nakuru Town West",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 227,
+      "name": "Nambale",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 153,
+      "name": "Nandi Hills",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 180,
+      "name": "Narok East",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 179,
+      "name": "Narok North",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 181,
+      "name": "Narok South",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 182,
+      "name": "Narok West",
+      "population": 0,
+      "size": 0.0,
+      "county": 33
+    },
+    {
+      "id": 203,
+      "name": "Navakholo",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 93,
+      "name": "Ndaragwa",
+      "population": 0,
+      "size": 0.0,
+      "county": 18
+    },
+    {
+      "id": 250,
+      "name": "Ndhiwa",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 102,
+      "name": "Ndia",
+      "population": 0,
+      "size": 0.0,
+      "county": 20
+    },
+    {
+      "id": 167,
+      "name": "Njoro",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 46,
+      "name": "North Horr",
+      "population": 0,
+      "size": 0.0,
+      "county": 10
+    },
+    {
+      "id": 56,
+      "name": "North Imenti",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 272,
+      "name": "North Mugirango",
+      "population": 0,
+      "size": 0.0,
+      "county": 46
+    },
+    {
+      "id": 244,
+      "name": "Nyakach",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 4,
+      "name": "Nyali",
+      "population": 0,
+      "size": 0.0,
+      "county": 1
+    },
+    {
+      "id": 242,
+      "name": "Nyando",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 267,
+      "name": "Nyaribari Chache",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 266,
+      "name": "Nyaribari Masaba",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 258,
+      "name": "Nyatike",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 99,
+      "name": "Nyeri Town",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 92,
+      "name": "Ol Jorok",
+      "population": 0,
+      "size": 0.0,
+      "county": 18
+    },
+    {
+      "id": 91,
+      "name": "Ol Kalou",
+      "population": 0,
+      "size": 0.0,
+      "county": 18
+    },
+    {
+      "id": 97,
+      "name": "Othaya",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 132,
+      "name": "Pokot South",
+      "population": 0,
+      "size": 0.0,
+      "county": 24
+    },
+    {
+      "id": 14,
+      "name": "Rabai",
+      "population": 0,
+      "size": 0.0,
+      "county": 3
+    },
+    {
+      "id": 248,
+      "name": "Rangwe",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 237,
+      "name": "Rarieda",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 173,
+      "name": "Rongai",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 253,
+      "name": "Rongo",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 279,
+      "name": "Roysambu",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 281,
+      "name": "Ruaraka",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 115,
+      "name": "Ruiru",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 64,
+      "name": "Runyenjes",
+      "population": 0,
+      "size": 0.0,
+      "county": 14
+    },
+    {
+      "id": 212,
+      "name": "Sabatia",
+      "population": 0,
+      "size": 0.0,
+      "county": 38
+    },
+    {
+      "id": 138,
+      "name": "Saboti",
+      "population": 0,
+      "size": 0.0,
+      "county": 26
+    },
+    {
+      "id": 47,
+      "name": "Saku",
+      "population": 0,
+      "size": 0.0,
+      "county": 10
+    },
+    {
+      "id": 135,
+      "name": "Samburu East",
+      "population": 0,
+      "size": 0.0,
+      "county": 25
+    },
+    {
+      "id": 134,
+      "name": "Samburu North",
+      "population": 0,
+      "size": 0.0,
+      "county": 25
+    },
+    {
+      "id": 133,
+      "name": "Samburu West",
+      "population": 0,
+      "size": 0.0,
+      "county": 25
+    },
+    {
+      "id": 241,
+      "name": "Seme",
+      "population": 0,
+      "size": 0.0,
+      "county": 42
+    },
+    {
+      "id": 209,
+      "name": "Shinyalu",
+      "population": 0,
+      "size": 0.0,
+      "county": 37
+    },
+    {
+      "id": 130,
+      "name": "Sigor",
+      "population": 0,
+      "size": 0.0,
+      "county": 24
+    },
+    {
+      "id": 193,
+      "name": "Sigowet-Soin",
+      "population": 105124,
+      "size": 473.1,
+      "county": 35
+    },
+    {
+      "id": 217,
+      "name": "Sirisia",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 194,
+      "name": "Sotik",
+      "population": 0,
+      "size": 0.0,
+      "county": 36
+    },
+    {
+      "id": 59,
+      "name": "South Imenti",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 262,
+      "name": "South Mugirango",
+      "population": 0,
+      "size": 0.0,
+      "county": 45
+    },
+    {
+      "id": 141,
+      "name": "Soy",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 289,
+      "name": "Starehe",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 252,
+      "name": "Suba",
+      "population": 0,
+      "size": 0.0,
+      "county": 43
+    },
+    {
+      "id": 172,
+      "name": "Subukia",
+      "population": 0,
+      "size": 0.0,
+      "county": 32
+    },
+    {
+      "id": 255,
+      "name": "Suna East",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 256,
+      "name": "Suna West",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 35,
+      "name": "Tarbaj",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 23,
+      "name": "Taveta",
+      "population": 0,
+      "size": 0.0,
+      "county": 6
+    },
+    {
+      "id": 225,
+      "name": "Teso North",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 226,
+      "name": "Teso South",
+      "population": 0,
+      "size": 0.0,
+      "county": 40
+    },
+    {
+      "id": 94,
+      "name": "Tetu",
+      "population": 0,
+      "size": 0.0,
+      "county": 19
+    },
+    {
+      "id": 62,
+      "name": "Tharaka",
+      "population": 0,
+      "size": 0.0,
+      "county": 13
+    },
+    {
+      "id": 114,
+      "name": "Thika Town",
+      "population": 0,
+      "size": 0.0,
+      "county": 22
+    },
+    {
+      "id": 157,
+      "name": "Tiaty",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 54,
+      "name": "Tigania West",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    },
+    {
+      "id": 151,
+      "name": "Tinderet",
+      "population": 0,
+      "size": 0.0,
+      "county": 29
+    },
+    {
+      "id": 224,
+      "name": "Tongaren",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 142,
+      "name": "Turbo",
+      "population": 0,
+      "size": 0.0,
+      "county": 27
+    },
+    {
+      "id": 125,
+      "name": "Turkana Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 128,
+      "name": "Turkana East",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 123,
+      "name": "Turkana North",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 127,
+      "name": "Turkana South",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 124,
+      "name": "Turkana West",
+      "population": 0,
+      "size": 0.0,
+      "county": 23
+    },
+    {
+      "id": 232,
+      "name": "Ugenya",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 233,
+      "name": "Ugunja",
+      "population": 0,
+      "size": 0.0,
+      "county": 41
+    },
+    {
+      "id": 257,
+      "name": "Uriri",
+      "population": 0,
+      "size": 0.0,
+      "county": 44
+    },
+    {
+      "id": 211,
+      "name": "Vihiga",
+      "population": 0,
+      "size": 0.0,
+      "county": 38
+    },
+    {
+      "id": 26,
+      "name": "Voi",
+      "population": 0,
+      "size": 0.0,
+      "county": 6
+    },
+    {
+      "id": 34,
+      "name": "Wajir East",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 33,
+      "name": "Wajir North",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 38,
+      "name": "Wajir South",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 36,
+      "name": "Wajir West",
+      "population": 0,
+      "size": 0.0,
+      "county": 8
+    },
+    {
+      "id": 221,
+      "name": "Webuye East",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 222,
+      "name": "Webuye West",
+      "population": 0,
+      "size": 0.0,
+      "county": 39
+    },
+    {
+      "id": 271,
+      "name": "West Mugirango",
+      "population": 0,
+      "size": 0.0,
+      "county": 46
+    },
+    {
+      "id": 274,
+      "name": "Westlands",
+      "population": 0,
+      "size": 0.0,
+      "county": 47
+    },
+    {
+      "id": 24,
+      "name": "Wundanyi",
+      "population": 0,
+      "size": 0.0,
+      "county": 6
+    },
+    {
+      "id": 76,
+      "name": "Yatta",
+      "population": 0,
+      "size": 0.0,
+      "county": 16
+    },
+    {
+      "id": 159,
+      "name": "aringo Central",
+      "population": 0,
+      "size": 0.0,
+      "county": 30
+    },
+    {
+      "id": 55,
+      "name": "igania East",
+      "population": 0,
+      "size": 0.0,
+      "county": 12
+    }
+  ],
+  "Ward": [
+    {
+      "id": 13,
+      "name": "Waldai",
+      "population": 33672,
+      "size": 55.1,
+      "constituency": 192
+    },
+    {
+      "id": 14,
+      "name": "Kabianga",
+      "population": 35091,
+      "size": 68.7,
+      "constituency": 192
+    },
+    {
+      "id": 15,
+      "name": "Cheptororiet/Seretut",
+      "population": 20649,
+      "size": 38.7,
+      "constituency": 192
+    },
+    {
+      "id": 16,
+      "name": "Chaik",
+      "population": 19951,
+      "size": 104.0,
+      "constituency": 192
+    },
+    {
+      "id": 17,
+      "name": "Kapsuser",
+      "population": 15927,
+      "size": 28.0,
+      "constituency": 192
+    },
+    {
+      "id": 18,
+      "name": "Kisiara",
+      "population": 21402,
+      "size": 38.6,
+      "constituency": 191
+    },
+    {
+      "id": 19,
+      "name": "Tebesonik",
+      "population": 20912,
+      "size": 66.1,
+      "constituency": 191
+    },
+    {
+      "id": 20,
+      "name": "Cheboin",
+      "population": 22834,
+      "size": 45.6,
+      "constituency": 191
+    },
+    {
+      "id": 21,
+      "name": "Chemosot",
+      "population": 26553,
+      "size": 50.6,
+      "constituency": 191
+    },
+    {
+      "id": 22,
+      "name": "Litein",
+      "population": 26275,
+      "size": 40.2,
+      "constituency": 191
+    },
+    {
+      "id": 1,
+      "name": "Londiani",
+      "population": 28319,
+      "size": 120.2,
+      "constituency": 188
+    },
+    {
+      "id": 2,
+      "name": "Kedowa/Kimugul",
+      "population": 36330,
+      "size": 241.6,
+      "constituency": 188
+    },
+    {
+      "id": 3,
+      "name": "Chepseon",
+      "population": 36284,
+      "size": 181.9,
+      "constituency": 188
+    },
+    {
+      "id": 4,
+      "name": "Tendeno/Sorget",
+      "population": 10899,
+      "size": 202.7,
+      "constituency": 188
+    },
+    {
+      "id": 5,
+      "name": "Kunyak",
+      "population": 18001,
+      "size": 68.0,
+      "constituency": 189
+    },
+    {
+      "id": 6,
+      "name": "Kamasian",
+      "population": 20079,
+      "size": 80.5,
+      "constituency": 189
+    },
+    {
+      "id": 7,
+      "name": "Kipkelion",
+      "population": 25501,
+      "size": 107.8,
+      "constituency": 189
+    },
+    {
+      "id": 8,
+      "name": "Chilchila",
+      "population": 31177,
+      "size": 104.6,
+      "constituency": 189
+    },
+    {
+      "id": 9,
+      "name": "Sigowet",
+      "population": 36175,
+      "size": 72.8,
+      "constituency": 193
+    },
+    {
+      "id": 10,
+      "name": "Kaplelartet",
+      "population": 31753,
+      "size": 106.4,
+      "constituency": 193
+    },
+    {
+      "id": 11,
+      "name": "Soliat",
+      "population": 16124,
+      "size": 101.0,
+      "constituency": 193
+    },
+    {
+      "id": 12,
+      "name": "Sion",
+      "population": 21072,
+      "size": 192.9,
+      "constituency": 193
+    }
+  ],
+  "Location": [
+    {
+      "id": 81,
+      "name": "Kaborok",
+      "population": 0,
+      "size": 0.0,
+      "ward": 13
+    },
+    {
+      "id": 82,
+      "name": "Sosiot",
+      "population": 0,
+      "size": 0.0,
+      "ward": 13
+    },
+    {
+      "id": 83,
+      "name": "Kaptoboti",
+      "population": 0,
+      "size": 0.0,
+      "ward": 13
+    },
+    {
+      "id": 84,
+      "name": "Borborwet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 17
+    },
+    {
+      "id": 85,
+      "name": "Kipkoiyan",
+      "population": 0,
+      "size": 0.0,
+      "ward": 17
+    },
+    {
+      "id": 86,
+      "name": "Kakiptui",
+      "population": 0,
+      "size": 0.0,
+      "ward": 17
+    },
+    {
+      "id": 87,
+      "name": "Kapsuser",
+      "population": 0,
+      "size": 0.0,
+      "ward": 17
+    },
+    {
+      "id": 88,
+      "name": "Kiptetan",
+      "population": 0,
+      "size": 0.0,
+      "ward": 16
+    },
+    {
+      "id": 89,
+      "name": "Chepkembe",
+      "population": 0,
+      "size": 0.0,
+      "ward": 16
+    },
+    {
+      "id": 90,
+      "name": "Chemogonday",
+      "population": 0,
+      "size": 0.0,
+      "ward": 16
+    },
+    {
+      "id": 91,
+      "name": "Kipsolu",
+      "population": 0,
+      "size": 0.0,
+      "ward": 15
+    },
+    {
+      "id": 92,
+      "name": "Ainapkoi",
+      "population": 0,
+      "size": 0.0,
+      "ward": 15
+    },
+    {
+      "id": 93,
+      "name": "Seretut",
+      "population": 0,
+      "size": 0.0,
+      "ward": 15
+    },
+    {
+      "id": 94,
+      "name": "Chepkosilen",
+      "population": 0,
+      "size": 0.0,
+      "ward": 15
+    },
+    {
+      "id": 95,
+      "name": "Kapcheluch",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 96,
+      "name": "Koiwalelach",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 97,
+      "name": "Chebirirbei",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 98,
+      "name": "Kabianga",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 99,
+      "name": "Chemamui",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 100,
+      "name": "Kapkitony",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 101,
+      "name": "Kiptome",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 102,
+      "name": "Mobego",
+      "population": 0,
+      "size": 0.0,
+      "ward": 14
+    },
+    {
+      "id": 27,
+      "name": "Tendono",
+      "population": 0,
+      "size": 0.0,
+      "ward": 4
+    },
+    {
+      "id": 28,
+      "name": "Subukia",
+      "population": 0,
+      "size": 0.0,
+      "ward": 4
+    },
+    {
+      "id": 29,
+      "name": "Sorget",
+      "population": 0,
+      "size": 0.0,
+      "ward": 4
+    },
+    {
+      "id": 30,
+      "name": "Kongoni",
+      "population": 0,
+      "size": 0.0,
+      "ward": 4
+    },
+    {
+      "id": 31,
+      "name": "Masaita",
+      "population": 0,
+      "size": 0.0,
+      "ward": 1
+    },
+    {
+      "id": 32,
+      "name": "Saramek",
+      "population": 0,
+      "size": 0.0,
+      "ward": 1
+    },
+    {
+      "id": 33,
+      "name": "Tuiyobei",
+      "population": 0,
+      "size": 0.0,
+      "ward": 1
+    },
+    {
+      "id": 34,
+      "name": "Jagoror",
+      "population": 0,
+      "size": 0.0,
+      "ward": 1
+    },
+    {
+      "id": 35,
+      "name": "Kipsirichet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 1
+    },
+    {
+      "id": 36,
+      "name": "Chepkongony",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 37,
+      "name": "Tegunot",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 38,
+      "name": "Kedowa",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 39,
+      "name": "Kimasian",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 40,
+      "name": "Kisabo",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 41,
+      "name": "Kibiemit",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 42,
+      "name": "Kimugul",
+      "population": 0,
+      "size": 0.0,
+      "ward": 2
+    },
+    {
+      "id": 43,
+      "name": "Cheymen",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 44,
+      "name": "Changaik",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 45,
+      "name": "Chepsir",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 46,
+      "name": "Chesinende",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 47,
+      "name": "Momoniat",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 48,
+      "name": "Tugunon",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 49,
+      "name": "Chepcholiet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 3
+    },
+    {
+      "id": 1,
+      "name": "Chemogoch",
+      "population": 0,
+      "size": 0.0,
+      "ward": 5
+    },
+    {
+      "id": 2,
+      "name": "Kapkwen",
+      "population": 0,
+      "size": 0.0,
+      "ward": 5
+    },
+    {
+      "id": 3,
+      "name": "Chesonol",
+      "population": 0,
+      "size": 0.0,
+      "ward": 5
+    },
+    {
+      "id": 4,
+      "name": "Timbill",
+      "population": 0,
+      "size": 0.0,
+      "ward": 5
+    },
+    {
+      "id": 5,
+      "name": "Kokwet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 6,
+      "name": "Tulwoapmoi",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 7,
+      "name": "Chepkechel",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 8,
+      "name": "Song'onyet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 9,
+      "name": "Koisagat",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 10,
+      "name": "Siwot",
+      "population": 0,
+      "size": 0.0,
+      "ward": 8
+    },
+    {
+      "id": 11,
+      "name": "Mutaragon",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 12,
+      "name": "Kutung",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 13,
+      "name": "Kapkures",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 14,
+      "name": "Bartera",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 15,
+      "name": "Lelu",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 16,
+      "name": "Leidet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 17,
+      "name": "Tulyobel (Kipsegi)",
+      "population": 0,
+      "size": 0.0,
+      "ward": 6
+    },
+    {
+      "id": 18,
+      "name": "Siret",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 19,
+      "name": "Lesirwa",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 20,
+      "name": "Kipkelion Town",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 21,
+      "name": "Tombo",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 22,
+      "name": "Barsiele",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 23,
+      "name": "Macheisok",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 24,
+      "name": "Segetet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 25,
+      "name": "Ting'oro",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 26,
+      "name": "Kalyet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 7
+    },
+    {
+      "id": 50,
+      "name": "Simbi",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 51,
+      "name": "Kaplelach",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 52,
+      "name": "Kipsitet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 53,
+      "name": "Kaptalamwa",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 54,
+      "name": "Kapchebwai",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 55,
+      "name": "Koitaburot",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 56,
+      "name": "Kejiriet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 57,
+      "name": "Kapkormoin",
+      "population": 0,
+      "size": 0.0,
+      "ward": 12
+    },
+    {
+      "id": 58,
+      "name": "Lekwenyi",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 59,
+      "name": "Kapsorok",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 60,
+      "name": "Kapkara",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 61,
+      "name": "Kamasega",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 62,
+      "name": "Motero",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 63,
+      "name": "Kong'eren",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 64,
+      "name": "Soliat",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 65,
+      "name": "Kiptugumo",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 66,
+      "name": "Kapsegut",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 67,
+      "name": "Baregeiwet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 68,
+      "name": "Kaitui",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 69,
+      "name": "Kabokyek",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 70,
+      "name": "Chesiche",
+      "population": 0,
+      "size": 0.0,
+      "ward": 11
+    },
+    {
+      "id": 71,
+      "name": "Kapsomboch",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 72,
+      "name": "Kaplelartet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 73,
+      "name": "Tabaita",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 74,
+      "name": "Chepkemel",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 75,
+      "name": "Iraa",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 76,
+      "name": "Kalyangwet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 10
+    },
+    {
+      "id": 77,
+      "name": "Sigowet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 9
+    },
+    {
+      "id": 78,
+      "name": "Kiptere",
+      "population": 0,
+      "size": 0.0,
+      "ward": 9
+    },
+    {
+      "id": 79,
+      "name": "Kebeneti",
+      "population": 0,
+      "size": 0.0,
+      "ward": 9
+    },
+    {
+      "id": 80,
+      "name": "Cheptuiyet",
+      "population": 0,
+      "size": 0.0,
+      "ward": 9
+    }
+  ],
+  "SubLocation": [],
+  "Governor": [
+    {
+      "id": 2,
+      "is_deputy": true,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "county": 27,
+      "leader": 8
+    },
+    {
+      "id": 1,
+      "is_deputy": false,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "county": 27,
+      "leader": 7
+    }
+  ],
+  "CWR": [],
+  "MP": [
+    {
+      "id": 6,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "constituency": 193,
+      "leader": 6
+    },
+    {
+      "id": 5,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "constituency": 192,
+      "leader": 5
+    },
+    {
+      "id": 4,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "constituency": 191,
+      "leader": 4
+    },
+    {
+      "id": 3,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "constituency": 188,
+      "leader": 3
+    },
+    {
+      "id": 2,
+      "start_date": "2017-08-17",
+      "end_date": null,
+      "constituency": 190,
+      "leader": 2
+    },
+    {
+      "id": 1,
+      "start_date": "2017-08-31",
+      "end_date": null,
+      "constituency": 189,
+      "leader": 1
+    }
+  ],
+  "MCA": []
 }
